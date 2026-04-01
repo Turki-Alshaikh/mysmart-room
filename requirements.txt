@@ -1,0 +1,7 @@
+flask>=3.0.0
+requests>=2.31.0
+tinytuya>=1.15.0
+bleak>=0.21.0
+screen-brightness-control>=0.23.0
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
